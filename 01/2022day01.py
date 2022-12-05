@@ -1,7 +1,6 @@
 from pathlib import Path
-# from more_itertools import locate
 
-n = '2022day01input.txt' #'01_toy.txt'
+n = '2022day01input.txt' #'2022day01toy.txt'
 p = Path(__file__).with_name(n)
 
 with p.open() as f:
