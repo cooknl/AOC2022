@@ -16,6 +16,8 @@ A slick way to download the puzzle data and submit answers
 
 ### Day 02
 
+Dictionaries!
+
 - Doubling up, 04 Dec
 - Things I re-learned
   - `advent-of-code-data` is a thing!
@@ -23,6 +25,8 @@ A slick way to download the puzzle data and submit answers
 - `urllib3.exceptions.SSLError: Can't connect to HTTPS URL because the SSL module is not available`
 
 ### Day 01
+
+Lists!
 
 - Started late, 04 Dec
 - Things I re-learned
