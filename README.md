@@ -14,6 +14,18 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 03
+
+Sets!
+
+- 05 Dec, still lagging
+- Didn't get around to debugging `aocd`
+- Things I re-learned
+  - `set.intersection()`
+  - `string.isupper()`
+- Things I learned
+  - `reduce(lambda x,y: set(x)&set(y), list_of_strings)`
+
 ### Day 02
 
 Dictionaries!
