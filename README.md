@@ -14,6 +14,18 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 04
+
+Sorted Lists! Mapped Tuples!
+
+- 06 Dec, still lagging
+- Go `aocd` working on Ubuntu
+- Things I re-learned
+  - `sorted()` for lists
+  - `list.count()`
+- Things I learned
+  - `(tuple(map(operator.sub,tups[0],tups[1])))` subtracts corresponding elements in a pair of tuples! 
+
 ### Day 03
 
 Sets!
