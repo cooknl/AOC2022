@@ -14,12 +14,22 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 05
+
+Transposed Lists!
+
+- 07 Dec, still lagging
+- Things I re-learned
+  - inplace list operations
+- Things I learned
+  - `itertools.groupby()`
+
 ### Day 04
 
 Sorted Lists! Mapped Tuples!
 
 - 06 Dec, still lagging
-- Go `aocd` working on Ubuntu
+- Got `aocd` working on Ubuntu
 - Things I re-learned
   - `sorted()` for lists
   - `list.count()`
