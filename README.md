@@ -14,6 +14,16 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 06
+
+Counter!
+
+- 08 Dec, still lagging
+- Things I re-learned
+  - Can't chain `list.append()` with `list.pop()` because they both return `None`
+- Things I learned
+  - `Counter.most_common()`
+
 ### Day 05
 
 Transposed Lists!
