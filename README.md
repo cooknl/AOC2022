@@ -14,6 +14,22 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 07
+
+PurePosixPath!
+
+
+- 11 Dec, lagging a lot
+- `/jssbn/lfrctthp/lfrctthp/` WHHYYYY!?!?!
+- Thanks to [Rainow CSV VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) for enabling a rapid exploration of the dataset, although a momentary panic that `LIKE` wasn't supported was alleviated by the existence of `like(col, str)`
+- Things I re-learned
+  - If you don't update the value of a loop variable, it's not helpful
+  - When concatenating strings with `+` you have to `str()` integers
+  - `collections.defaultdict` is awesome
+  - EXPLORE YOUR DATASET
+- Things I learned
+  - `pathlib.PurePosixPath` can be used to keep track of directories even if there's no actual file system!
+
 ### Day 06
 
 Counter!
