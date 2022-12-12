@@ -14,6 +14,16 @@ A slick way to download the puzzle data and submit answers
 
 ## AOC Journal
 
+### Day 08 
+
+numpy!
+
+- 11 Dec, still lagging
+- Things I re-learned
+  - numpy indexing
+- Things I learned
+  -`np.genfromtxt` 
+
 ### Day 07
 
 PurePosixPath!
